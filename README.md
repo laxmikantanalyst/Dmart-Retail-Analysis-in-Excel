@@ -10,7 +10,7 @@ The dashboard enables users to monitor sales, profit, orders, product performanc
 
 ## 📷 Dashboard Preview
 
-![D-Mart Retail Dashboard](dmart_dashboard.png)
+![D-Mart Retail Dashboard](Dmart_dashboard.png)
 
 ---
 
